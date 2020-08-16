@@ -30,7 +30,7 @@ function taskTwo(X) {
 function taskThreeFour(s) {
     let arr = s.split("");
     let reverseArr = arr.reverse();
-    var reverseS = reverseArr.join();
+    let reverseS = reverseArr.join();
 
     console.log(reverseS);
 
