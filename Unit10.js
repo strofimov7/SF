@@ -39,7 +39,5 @@ function taskThreeFour(s) {
 
 }
 
-function taskFive() {
+function taskFive() {}
 
-
-}
